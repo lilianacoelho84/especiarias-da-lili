@@ -1,0 +1,15 @@
+img { max-width: 100%;}
+
+/*
+main { 
+        display: flex;
+        flex-wrap: wrap;
+     }
+     */
+
+div { text-align: center;}
+
+footer {
+        background-color: rgba(121, 146, 52, 0.2);
+    }
+    
